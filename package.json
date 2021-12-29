@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/38hossainafzal/js.git"
+  },
+  "keywords": [
+    "js",
+    "project"
+  ],
+  "author": "Afzal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/38hossainafzal/js/issues"
+  },
+  "homepage": "https://github.com/38hossainafzal/js#readme"
+}
